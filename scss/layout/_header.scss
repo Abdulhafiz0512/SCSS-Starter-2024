@@ -1,3 +1,32 @@
 header {
   //code
+  background-color: rgb(30 58 138);
+  nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    img{
+      width: 100px;
+      height: 60px;
+  
+    }
+    .search{
+      input{
+        height: 25px;
+        width: 200px;
+        position: relative;
+      }
+      img{
+        color: black;
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        right: 638px;
+        top: 20px;
+        
+      }
+    }
+  }
+  
+  
 }

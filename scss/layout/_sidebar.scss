@@ -1,0 +1,17 @@
+.sidebar {
+    position: fixed;
+    top: 60px;
+    left: 0px;
+    width: 20%;
+    height: 100vh;
+    background-color: 	rgb(153 246 228);
+    a{
+        font-size: 25px;
+        margin-left: 10px;
+    }
+    li{
+        row-gap: 10px;
+    }
+
+
+}
